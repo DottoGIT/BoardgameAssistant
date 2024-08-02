@@ -1,0 +1,272 @@
+[
+  {
+    "date": "19-01-2023 15:49:11 - test",
+    "template": {
+      "name": "test",
+      "resources": [
+        {
+          "name": "Rower",
+          "value": 2,
+          "start_value": 2,
+          "min_value": 1,
+          "max_value": 10
+        },
+        {
+          "name": "Banany",
+          "value": 8,
+          "start_value": 8,
+          "min_value": 7,
+          "max_value": 15
+        },
+        {
+          "name": "Pies",
+          "value": 7,
+          "start_value": 7,
+          "min_value": 3,
+          "max_value": 18
+        },
+        {
+          "name": "Lalka",
+          "value": 5,
+          "start_value": 5,
+          "min_value": 4,
+          "max_value": 6
+        },
+        {
+          "name": "Fill",
+          "value": 11,
+          "start_value": 11,
+          "min_value": 0,
+          "max_value": 99
+        }
+      ],
+      "dice": {
+        "throws": 2,
+        "walls": 6
+      }
+    },
+    "players": [
+      {
+        "name": "darek",
+        "resources": [
+          {
+            "name": "Rower",
+            "value": 7,
+            "start_value": 2,
+            "min_value": 1,
+            "max_value": 10
+          },
+          {
+            "name": "Banany",
+            "value": 12,
+            "start_value": 8,
+            "min_value": 7,
+            "max_value": 15
+          },
+          {
+            "name": "Pies",
+            "value": 16,
+            "start_value": 7,
+            "min_value": 3,
+            "max_value": 18
+          },
+          {
+            "name": "Lalka",
+            "value": 4,
+            "start_value": 5,
+            "min_value": 4,
+            "max_value": 6
+          },
+          {
+            "name": "Fill",
+            "value": 69,
+            "start_value": 11,
+            "min_value": 0,
+            "max_value": 99
+          }
+        ]
+      }
+    ],
+    "command_log": []
+  },
+  {
+    "date": "19-01-2023 16:09:54 - test",
+    "template": {
+      "name": "test",
+      "resources": [
+        {
+          "name": "Rower",
+          "value": 2,
+          "start_value": 2,
+          "min_value": 1,
+          "max_value": 10
+        },
+        {
+          "name": "Banany",
+          "value": 8,
+          "start_value": 8,
+          "min_value": 7,
+          "max_value": 15
+        },
+        {
+          "name": "Pies",
+          "value": 7,
+          "start_value": 7,
+          "min_value": 3,
+          "max_value": 18
+        },
+        {
+          "name": "Lalka",
+          "value": 5,
+          "start_value": 5,
+          "min_value": 4,
+          "max_value": 6
+        },
+        {
+          "name": "Fill",
+          "value": 11,
+          "start_value": 11,
+          "min_value": 0,
+          "max_value": 99
+        }
+      ],
+      "dice": {
+        "throws": 2,
+        "walls": 6
+      }
+    },
+    "players": [
+      {
+        "name": "o",
+        "resources": [
+          {
+            "name": "Rower",
+            "value": 2,
+            "start_value": 2,
+            "min_value": 1,
+            "max_value": 10
+          },
+          {
+            "name": "Banany",
+            "value": 8,
+            "start_value": 8,
+            "min_value": 7,
+            "max_value": 15
+          },
+          {
+            "name": "Pies",
+            "value": 7,
+            "start_value": 7,
+            "min_value": 3,
+            "max_value": 18
+          },
+          {
+            "name": "Lalka",
+            "value": 5,
+            "start_value": 5,
+            "min_value": 4,
+            "max_value": 6
+          },
+          {
+            "name": "Fill",
+            "value": 11,
+            "start_value": 11,
+            "min_value": 0,
+            "max_value": 99
+          }
+        ]
+      },
+      {
+        "name": "k",
+        "resources": [
+          {
+            "name": "Rower",
+            "value": 2,
+            "start_value": 2,
+            "min_value": 1,
+            "max_value": 10
+          },
+          {
+            "name": "Banany",
+            "value": 8,
+            "start_value": 8,
+            "min_value": 7,
+            "max_value": 15
+          },
+          {
+            "name": "Pies",
+            "value": 7,
+            "start_value": 7,
+            "min_value": 3,
+            "max_value": 18
+          },
+          {
+            "name": "Lalka",
+            "value": 5,
+            "start_value": 5,
+            "min_value": 4,
+            "max_value": 6
+          },
+          {
+            "name": "Fill",
+            "value": 11,
+            "start_value": 11,
+            "min_value": 0,
+            "max_value": 99
+          }
+        ]
+      }
+    ],
+    "command_log": []
+  },
+  {
+    "date": "24-01-2023 19:04:54 - ciekawe",
+    "template": {
+      "name": "ciekawe",
+      "resources": [
+        {
+          "name": "hmm",
+          "value": 12,
+          "start_value": 12,
+          "min_value": 1,
+          "max_value": 23
+        }
+      ],
+      "dice": {
+        "throws": 3,
+        "walls": 2
+      }
+    },
+    "players": [
+      {
+        "name": "autyzm",
+        "resources": [
+          {
+            "name": "hmm",
+            "value": 10,
+            "start_value": 12,
+            "min_value": 1,
+            "max_value": 23
+          }
+        ]
+      },
+      {
+        "name": "vbucks",
+        "resources": [
+          {
+            "name": "hmm",
+            "value": 17,
+            "start_value": 12,
+            "min_value": 1,
+            "max_value": 23
+          }
+        ]
+      }
+    ],
+    "command_log": [
+      "Czym jest życie",
+      "Granie",
+      "Więcej Logów"
+  ]
+  }
+]
